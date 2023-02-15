@@ -14,7 +14,7 @@ O Algoritmo de ordenação Bubble Sort tem complexidade computacional igual a O(
 
 O tempo de processamento médio encontrado no cálculo das avaliações médias foi de 20.451ms, rodando o código no Replit.com.
 
-<img src="./home/eduardo/Imagens/Capturas de tela/"></img>
+<img src="images/tempo-processamento.png"></img>
 
 </br>
 
