@@ -6,7 +6,7 @@ Aplicação do algoritmo Bubble Sort para busca e ordenação em análise de ava
 
 ## Complexidade do Algoritmo de Ordenação escolhido
 
-O Algoritmo de ordenação Bubble Sort tem complexidade computacional é igual a O(N^2), ou seja, de ordem quadrática. Porém, no melhor caso, pode ser um algoritmo de complexidade computacional igual a O(N).
+O Algoritmo de ordenação Bubble Sort tem complexidade computacional igual a O(N^2), de ordem quadrática. Porém, no melhor caso, pode ser um algoritmo de complexidade computacional igual a O(N).
 
 </br>
 
@@ -14,7 +14,7 @@ O Algoritmo de ordenação Bubble Sort tem complexidade computacional é igual a
 
 O tempo de processamento médio encontrado no cálculo das avaliações médias foi de 20.451ms, rodando o código no Replit.com.
 
-<img src="docs/tempo-processamento.png"></img>
+<img src="./home/eduardo/Imagens/Capturas de tela/"></img>
 
 </br>
 
