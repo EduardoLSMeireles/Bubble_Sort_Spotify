@@ -20,4 +20,4 @@ O tempo de processamento médio encontrado no cálculo das avaliações médias 
 
 ## Gráfico com análise das avaliações médias por mês
 
-<img src="docs/graphic.png"></img>
+<img src="images/graphic.png"></img>
